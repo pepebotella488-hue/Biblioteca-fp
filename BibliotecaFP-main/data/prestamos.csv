@@ -1,2 +1,0 @@
-id,libro_id,usuario_id,fecha_prestamo,fecha_devolucion,estado
-P001,L003,U001,2026-09-28,,activo
